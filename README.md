@@ -1,4 +1,4 @@
-## Your Name
+## Na-Rae Kim
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,20 +11,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The London Clinic** (Feburary 2022 to July 2022)  
+_Pharmacy Assistant technical officer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Unichem Lunn Ave - New Zealand** (June 2020 to Nov 2021)  
+_Pharmacy Technician_
+
+
+**Hats-on - South Korea** (June 2013 to Dec 2019)  
+_Store Owner_
 
 - Any experience relevent to software development
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
 -What was the situation/task? (ST)
@@ -53,25 +54,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+#### Makers Academy (September 2022 to December 2022)
+Highly selective 12 week intensive coding bootcamp.
+- Full stack web development
+- Teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### NZMA / Auckland, New Zealand (Feburary 2020 to June 2021)
+NZQA Level 5 Pharmacy Technician
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Korea Cyber University / Seoul, South Korea (March 2015 - December 2018)
+Bachelor of Early Childhood English Education 
 
-#### Any other qualifications
+#### University of Auckland / New Zealand (Feburary 2013 to June 2013, 2010) 
+Bachelor of Electrical Engineering (NOT Completed)
+- completed the second year
 
-That in some arguable way make you a better software developer or well-rounded person
+## Interests
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Love to travel around the world
+- Enjoy hiking in the mountains, or going for bush walks
+- Swimming, running and snowboarding
+- Cooking and baking internatianal cuisines 
