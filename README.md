@@ -16,13 +16,18 @@ I am looking forward to working in a company where I can strengthen my analytica
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql. |
+| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase. |
+| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, Rspec, HTML, CSS, Heroku. |
+| **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
+
+To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
 
 ## Skills
-#### -Fast learner
-#### -Problem solving
-#### -Communication
+#### - Fast learner
+#### - Attention to details
+#### - Problem solving
+#### - Communication
 
 ## Education
 
