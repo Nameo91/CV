@@ -1,8 +1,18 @@
-## Na-Rae Kim
+<div align="center">
 
+# Na-Rae Kim
 
+</div>
 
-## Projects
+## About Me 👩‍💻
+
+I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building diverting projects.
+
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. My engineering background led me to software development. I'm passionate about learning something new and industries that are constantly progressing. 
+
+I am looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems.
+
+## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -61,7 +71,7 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 
 ## Interests
 
-- Love to travel around the world
-- Enjoy hiking in the mountains, or going for bush walks
-- Swimming, running and snowboarding
-- Cooking and baking internatianal cuisines 
+- ✈️ Love to travel around the world
+- ⛰️ Enjoy hiking in the mountains, or going for bush walks
+- 🏊‍♀️ Swimming, running and snowboarding (competed nationally as a swimmer)
+- 🧑‍🍳 Cooking and baking 
