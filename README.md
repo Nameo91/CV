@@ -27,7 +27,6 @@ To take a look on other projects click [here](https://github.com/Nameo91?tab=rep
 ## Skills
 
 #### Fast learner
-* During the final group engineering project, I was assigned to a team with people in the appreticeship
 
 #### a Team Player
 
