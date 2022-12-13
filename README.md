@@ -1,4 +1,80 @@
+<div align="center">
+# Na-Rae Kim
+  
+[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) <br> [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
+</div>
 
+## About Me 👩‍💻
+I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building fun projects([Here are my projects](https://github.com/Nameo91?tab=repositories)). I'm on my journey to become a continuously growing software developer who writes good clean code.
+
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm also attracted to the fact that there is no language barrier, regardless of nationality, and software development is everywhere in modern life. My engineering background led me to software development. I would love to explore my curiosity about technology that is constantly progressing.
+ 
+I'm looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems. I also hope to contribute to diverse projects as a part of a supportive team with my can-do attitude.  
+
+## Tech
+JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Express, Sinatra, Rspec, Jest, NodeJs, HTML, CSS, Git, TablePlus, Postman 
+
+## Projects 
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql. |
+| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase. |
+| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku. |
+| **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
+
+To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
+
+## Skills
+
+#### Fast learner
+* During the final group engineering project, I was assigned to a team with people in the appreticeship
+
+#### a Team Player
+
+#### - Attention to details
+
+#### - Problem solving
+
+#### - Communication
+
+## Education
+
+#### Makers Academy (August 2022 to December 2022)
+_A 16-week intensive software development bootcamp_
+- Focused on Test-driven development and object oriented programming
+- Enhanced **communication** skills through every day pair-programming and three team projects
+- Implemented **agile working methodologies** during three group engineering projects
+- Built applications from 'Hello World' to full stack web applications in different languages
+
+#### NZMA / Auckland, New Zealand (Feburary 2020 to June 2021)
+NZQA Level 5 Pharmacy Technician
+
+#### Korea Cyber University / Seoul, South Korea (March 2015 - December 2018)
+Bachelor of Early Childhood English Education 
+
+#### University of Auckland / New Zealand (Feburary 2013 to June 2013, 2010) 
+Bachelor of Electrical Engineering
+- completed the second year
+
+## Experience
+
+**The London Clinic / London, UK** (Feburary 2022 to July 2022)  
+_Pharmacy Assistant technical officer_
+
+Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
+ - Minimised ward stock being expired off by less than 5 %
+ 
+**Unichem Lunn Ave / Auckland, New Zealand** (June 2020 to Nov 2021)  
+_Pharmacy Technician_
+
+Responsible for compassionate healthcare service in a fast-paced community pharmacy 
+ - Improved accuracy in dispensing by 95%
+ - Passed training course on COVID-19 Vaccine preparation
+
+**Hats-on / Seoul, South Korea** (June 2013 to Dec 2019)  
+_Franchise Headwear Store Owner_
+
+Responsible for managing and supervising shop operations providing maximum profitability
 - Increased sales growth over 2 years to #5 store over 130 stores in chain by analysing trends to shop planning and organising special promotions, displays and events 
 - Implemented daily sales reports and quarterly reports to head quarter and participated design meeting for the next season
 
@@ -10,7 +86,7 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 
 ## Languages
 
-**Korean**: native
+**Korean**: native <br>
 **English**: Full professional proficiency
 
 ## Interests
