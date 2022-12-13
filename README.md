@@ -8,7 +8,7 @@
 
 I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building diverting projects.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. My engineering background led me to software development. I'm passionate about learning something new and industries that are constantly progressing. 
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and industries that are constantly progressing. My engineering background led me to software development. 
 
 I am looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems.
 
