@@ -36,9 +36,9 @@ To take a look on other projects click [here](https://github.com/Nameo91?tab=rep
 ## Education
 
 #### Makers Academy (August 2022 to December 2022)
-A 16-week intensive development bootcamp
-- Full stack web development
-- Teamwork and communication, with an emphasis on pair programming
+A 16-week intensive software development bootcamp
+- Established from the basic syntax of Ruby to Full stack software development
+- Focused on Test-driven development and object oriented programming
 
 #### NZMA / Auckland, New Zealand (Feburary 2020 to June 2021)
 NZQA Level 5 Pharmacy Technician
