@@ -1,16 +1,19 @@
 <div align="center">
 
 # Na-Rae Kim
-
+[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) <br> [Professional Experience](#experience) | [Languages](#languages) | [Interests](#interests)
 </div>
 
 ## About Me 👩‍💻
+I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building diverting projects([Here are my projects](https://github.com/Nameo91?tab=repositories)). I'm on my journey to become a continuously growing software developer who writes good clean code.
 
-I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building diverting projects.
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and industries that are constantly progressing. My engineering background led me to software development to explore my curiosity about technology.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and industries that are constantly progressing. My engineering background led me to software development. 
+I'm looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems. I also hope to contribute to diverse projects as a part of a supportive team with my can-do attitude.  
 
-I am looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems.
+## Tech
+
+JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Express, Sinatra, Rspec, Jest, NodeJs, HTML, CSS, Git, TablePlus, Postman 
 
 ## Projects 
 
@@ -18,13 +21,14 @@ I am looking forward to working in a company where I can strengthen my analytica
 | ---------------------------- | ----------------- | ----------------- |
 | **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql. |
 | **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase. |
-| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, Rspec, HTML, CSS, Heroku. |
+| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku. |
 | **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
 
 To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
 
 ## Skills
-#### - Fast learner
+#### *Fast learner*
+#### a Team Player
 #### - Attention to details
 #### - Problem solving
 #### - Communication
@@ -74,9 +78,14 @@ _Project Administrator_
 Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team managing project records, files and databases
 - Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while maintaing high degree of accuracy
 
+## Languages
+
+**Korean**: native
+**English**: Full professional proficiency
+
 ## Interests
 
-- ✈️ Love to travel around the world
-- ⛰️ Enjoy hiking in the mountains, or going for bush walks
+- ✈️ Love to travel around the world 
+- ⛰️ Enjoy hiking in the mountains, or going for bush walks (completed 2 of the world top 3 hiking tracks) 
 - 🏊‍♀️ Swimming, running and snowboarding (competed nationally as a swimmer)
 - 🧑‍🍳 Cooking and baking 
