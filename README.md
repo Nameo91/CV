@@ -5,11 +5,11 @@
 </div>
 
 ## About Me 👩‍💻
-I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building fun projects([Here are my projects](https://github.com/Nameo91?tab=repositories)). I'm on my journey to become a continuously growing software developer who writes good clean code.
+I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building various projects([Here are my projects](https://github.com/Nameo91?tab=repositories)) and I'm on my journey to become a continuously progressing software developer who writes good clean code.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm also attracted to the fact that there is no language barrier, regardless of nationality, and software development is everywhere in modern life. My engineering background led me to software development. I would love to explore my curiosity about technology that is constantly progressing.
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. My engineering background has led me to software development and I would love to explore my curiosity in technology that is continually progressing.
  
-I'm looking forward to working in a company where I can strengthen my analytical mind and the confidence to solve real-life problems. I also hope to contribute to diverse projects as a part of a supportive team with my can-do attitude.  
+I'm looking forward to working in a company where I can strengthen my analytical mind and be equipped with knowledge to solve real-life problems. I also hope to contribute to various projects, working as a team with my can-do attitude. 
 
 ## Tech
 JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Express, Sinatra, Rspec, Jest, NodeJs, HTML, CSS, Git, TablePlus, Postman 
