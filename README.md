@@ -1,7 +1,9 @@
 <div align="center">
+  
 # Na-Rae Kim
   
 [Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) <br> [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
+  
 </div>
 
 ## About Me 👩‍💻
