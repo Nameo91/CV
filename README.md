@@ -87,7 +87,7 @@ Responsible for managing and supervising shop operations providing maximum profi
 - Increased sales growth over 2 years to #5 store over 130 stores in chain by analysing trends to shop planning and organising special promotions, displays and events 
 - Implemented daily sales reports and quarterly reports to head quarter and participated design meeting for the next season
 
-**Daelim Corporation / Seoul, South Korea** (January 2012 to January 2013)
+**Daelim Corporation / Seoul, South Korea** (January 2012 to January 2013) <br>
 _Project Administrator_
 
 Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team managing project records, files and databases
