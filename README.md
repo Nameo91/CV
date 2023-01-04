@@ -63,19 +63,27 @@ Bachelor of Electrical Engineering
 _Pharmacy Assistant technical officer_
 
 Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
+ - Checking pharmaceutical stock to access inventory level by regular stock taking and filing related document
  - Minimised ward stock being expired off by less than 5 %
  
 **Unichem Lunn Ave / Auckland, New Zealand** (June 2020 to Nov 2021)  
 _Pharmacy Technician_
 
 Responsible for compassionate healthcare service in a fast-paced community pharmacy 
- - Improved accuracy in dispensing by 95%
- - Passed training course on COVID-19 Vaccine preparation
+ - Processing medicine prescription orders from healthcare professionals into a computerised pharmacy system
+ - Counting, measuring, and compounding medicationsfollowing standard procedures prior to final check by pharmacist
+ - Communication with prescribers to verify medication dosages, repeat prescription,  authorisation, and patient information
+ - Educating  patients and care givers on possible drug interactions, potential side effects and medical dosages
+ - Maintaining  proper drug storage procedure, registries and records for controlled drugs
+ - Passed training course on COVID-19 vaccine draw, and administered the preparation for vaccine
 
 **Hats-on / Seoul, South Korea** (June 2013 to Dec 2019)  
 _Franchise Headwear Store Owner_
 
 Responsible for managing and supervising shop operations providing maximum profitability
+- Controlling inventory to ensure sufficient stock, rotated and changed by season, shop specials and sales
+-	Hiring and training new staff members and managing staff schedules
+- Addressing complaints from customers if sales associates are unable to resolve them
 - Increased sales growth over 2 years to #5 store over 130 stores in chain by analysing trends to shop planning and organising special promotions, displays and events 
 - Implemented daily sales reports and quarterly reports to head quarter and participated design meeting for the next season
 
@@ -83,6 +91,9 @@ Responsible for managing and supervising shop operations providing maximum profi
 _Project Administrator_
 
 Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team managing project records, files and databases
+- Performing administrative duties for the Philippines Refinery Master Plan 2 Project team
+- Supporting projects managers and engineers for accurate recording keeping and constant flow of office paperwork
+- Maintaining project records, files and databases, as well as developed and updated spreadsheet
 - Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while maintaing high degree of accuracy
 
 ## Languages
@@ -92,7 +103,7 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 
 ## Interests
 
-- ✈️ Love to travel around the world 
+- ✈️ Love to travel around the world (Scratching a map where I've been to)
 - ⛰️ Enjoy hiking in the mountains, or going for bush walks (completed 2 of the world top 3 hiking tracks) 
 - 🏊‍♀️ Swimming, running and snowboarding (competed nationally as a swimmer)
 - 🧑‍🍳 Cooking and baking 
