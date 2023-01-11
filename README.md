@@ -9,9 +9,9 @@
 ## About Me 👩‍💻
 I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building various projects([Here are my projects](https://github.com/Nameo91?tab=repositories)) and I'm on my journey to become a continuously progressing software developer who writes good clean code.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. My engineering background has led me to software development and I would love to explore my curiosity in technology that is continually progressing.
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. It motivates me for a career change in an innovative and disruptive tech industry. My engineering background has also led me to software development. I would love to explore my curiosity in technology that is continually progressing.
  
-I'm looking forward to working in a company where I can strengthen my analytical mind and be equipped with knowledge to solve real-life problems. I also hope to contribute to various projects, working as a team with my can-do attitude. 
+I'm looking forward to working in a company where I can strengthen my analytical mind and be equipped with knowledge to improve our everyday lives. I also hope to contribute to various projects, working as a team with my can-do attitude. 
 
 ## Tech
 JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Express, Sinatra, Rspec, Jest, NodeJs, HTML, CSS, Git, TablePlus, Postman 
@@ -19,24 +19,21 @@ JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Expre
 ## Projects 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql. |
-| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase. |
-| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku. |
+| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager. | Angular, NestJS, TypeScript, Jest, TypeORM, Psql |
+| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase |
+| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku |
 | **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
 
 To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
 
 ## Skills
 
-#### Fast learner
+#### Quick Leaner and thrives under pressure
 
-#### a Team Player
 
-#### - Attention to details
+#### Attention to details
 
-#### - Problem solving
-
-#### - Communication
+#### An excellent communicator and team player
 
 ## Education
 
@@ -71,7 +68,7 @@ _Pharmacy Technician_
 
 Responsible for compassionate healthcare service in a fast-paced community pharmacy 
  - Processing medicine prescription orders from healthcare professionals into a computerised pharmacy system
- - Counting, measuring, and compounding medicationsfollowing standard procedures prior to final check by pharmacist
+ - Counting, measuring, and compounding medications following standard procedures prior to final check by pharmacist
  - Communication with prescribers to verify medication dosages, repeat prescription,  authorisation, and patient information
  - Educating  patients and care givers on possible drug interactions, potential side effects and medical dosages
  - Maintaining  proper drug storage procedure, registries and records for controlled drugs
