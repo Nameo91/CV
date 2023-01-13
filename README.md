@@ -28,8 +28,9 @@ To take a look on other projects click [here](https://github.com/Nameo91?tab=rep
 
 ## Skills
 
-#### Quick Leaner and thrives under pressure
-
+#### Quick Leaner who thrives under pressure
+- Able to learn new concepts and technical skills rapidly and effectively. I built a full-stack web application with new tech stacks Angular, NestJS and Typescript in two weeks during the final project at Makers.        
+- Passed training course on COVID-19 vaccine draw, and administered the preparation for vaccine in a week when I was working as a pharmacy technician at Unichem. 
 
 #### Attention to details
 
@@ -60,7 +61,10 @@ Bachelor of Electrical Engineering
 _Pharmacy Assistant technical officer_
 
 Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
+ - Creating metrics tracking how many medicines were required by different units in the hospital
+ - Maintaining ward stock level by filling the drug cupboard and returning any incorrect or defected products
  - Checking pharmaceutical stock to access inventory level by regular stock taking and filing related document
+ - Supplying emergency medications 
  - Minimised ward stock being expired off by less than 5 %
  
 **Unichem Lunn Ave / Auckland, New Zealand** (June 2020 to Nov 2021)  
@@ -69,10 +73,9 @@ _Pharmacy Technician_
 Responsible for compassionate healthcare service in a fast-paced community pharmacy 
  - Processing medicine prescription orders from healthcare professionals into a computerised pharmacy system
  - Counting, measuring, and compounding medications following standard procedures prior to final check by pharmacist
- - Communication with prescribers to verify medication dosages, repeat prescription,  authorisation, and patient information
- - Educating  patients and care givers on possible drug interactions, potential side effects and medical dosages
- - Maintaining  proper drug storage procedure, registries and records for controlled drugs
- - Passed training course on COVID-19 vaccine draw, and administered the preparation for vaccine
+ - Communicating with prescribers to verify medication dosages, repeat prescription,  authorisation, and patient information
+ - Educating patients and care givers on possible drug interactions, potential side effects and medical dosages
+ - Maintaining proper drug storage procedure, registries and records for controlled drugs
 
 **Hats-on / Seoul, South Korea** (June 2013 to Dec 2019)  
 _Franchise Headwear Store Owner_
