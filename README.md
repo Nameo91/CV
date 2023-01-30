@@ -9,7 +9,7 @@
 ## About Me 👩‍💻
 I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building various projects([Here are my projects](https://github.com/Nameo91?tab=repositories)) and I'm on my journey to become a continuously progressing software developer who writes good clean code.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and further developing myself and processes in workplace. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. It motivates me for a career change in an innovative and disruptive tech industry. My engineering background has also led me to software development. As a software developer providing simpler solutions to everyday people problems, and being as creative as I can in doing so, intrigues me to start as a software developer. I would love to explore my curiosity in technology that is continually developing.
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and further developing myself and processes in the workplace. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. It motivates me for a career change in an innovative and disruptive tech industry. My engineering background has also led me to software development. As a software developer providing simpler solutions to everyday people's problems, and being as creative as I can in doing so, intrigues me to start as a software developer. I would love to explore my curiosity in technology that is continually developing.
  
 I'm looking forward to working in a company where I can strengthen my analytical mind and be equipped with knowledge to improve our everyday lives. I also hope to contribute to various projects, working as a team with my can-do attitude. 
 
@@ -64,7 +64,7 @@ Bachelor of Electrical Engineering
 
 ## Experience 📝
 
-**The London Clinic / London, UK** (Feburary 2022 to July 2022)  
+**The London Clinic / London, UK** (February 2022 to July 2022)  
 _Pharmacy Assistant technical officer_
 
 Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
