@@ -67,12 +67,12 @@ Bachelor of Electrical Engineering
 **The London Clinic / London, UK** (February 2022 to July 2022)  
 _Pharmacy Assistant technical officer_
 
-Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
- - Creating metrics tracking how many medicines were required by different units in the hospital
+Responsible for maintaining pharmaceutical stock to ensure suitable inventory levels are held and lowering wastage 
+ - Preparing metrics tracking to see volume of medicines required by different units in the hospital
  - Maintaining ward stock level by filling the drug cupboard and returning any incorrect or defective products
- - Checking pharmaceutical stock to access inventory level by regular stock taking and filing related documents
+ - Performing pharmacy distribution stock take to ensure there are no expired products and reasonable level of stock are held at all times
  - Supplying emergency medications 
- - Minimised ward stock being expired off by less than 5% from 20& 
+ - Minimised ward stock being expired off by less than 5% from 20%
  
 **Unichem Lunn Ave / Auckland, New Zealand** (June 2020 to Nov 2021)  
 _Pharmacy Technician_
@@ -87,21 +87,19 @@ Responsible for compassionate healthcare service in a fast-paced community pharm
 **Hats-on / Seoul, South Korea** (June 2013 to Dec 2019)  
 _Franchise Headwear Store Owner_
 
-Responsible for managing and supervising shop operations providing maximum profitability
+Responsible for managing and supervising shop operations whilst increasing profitability
 - Controlling inventory to ensure sufficient stock, rotated and changed by season, shop specials and sales
 -	Hiring and training new staff members and managing staff schedules
 - Addressing complaints from customers if sales associates are unable to resolve them
-- Analysing trends to shop planning and organising special promotions, displays and events
+- Analysing trends for shop planning and organising special promotions, displays and events
 - Increased sales growth by 200% and was placed in the top 5 over 130 stores for sales volume
-- Implemented daily sales reports and quarterly reports to head office and participated design meeting for the next season
+- Presented daily sales reports and quarterly reports to head office which was then implemented to new design product roll out for next season and I have also participated in the design meeting
 
 **Daelim Corporation / Seoul, South Korea** (January 2012 to January 2013) <br>
 _Project Administrator_
 
-Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team managing project records, files and databases
-- Performing administrative duties for the Philippines Refinery Master Plan 2 Project team
-- Supporting projects managers and engineers for accurate recording keeping and constant flow of office paperwork
-- Maintaining project records, files and databases, as well as developed and updated spreadsheet
+Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team
+- Supporting projects managers and engineers for accurate and timely record keeping of documents and emails, as well as developing and updating spreadsheet
 - Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while achieving high degree of accuracy
 
 ## Languages :loudspeaker:
