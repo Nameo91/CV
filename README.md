@@ -105,8 +105,8 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 
 ## Languages :loudspeaker:
 
-**Korean**: native <br>
 **English**: Full professional proficiency
+**Korean**: Native <br>
 
 ## Interests :bulb:
 
