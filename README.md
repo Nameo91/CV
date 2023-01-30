@@ -9,38 +9,45 @@
 ## About Me 👩‍💻
 I'm a self-driven and motivated Full Stack Junior Developer who recently graduated from [Makers Academy](https://makers.tech/). I have learned the fundamentals of software development by building various projects([Here are my projects](https://github.com/Nameo91?tab=repositories)) and I'm on my journey to become a continuously progressing software developer who writes good clean code.
 
-After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. It motivates me for a career change in an innovative and disruptive tech industry. My engineering background has also led me to software development. I would love to explore my curiosity in technology that is continually progressing.
+After moving to the UK, I looked over my career path and wanted a new challenge which excites me. I'm passionate about learning something new and further developing myself and processes in workplace. I'm attracted to the fact that there is no language barrier in coding, regardless of nationality, and coding is used everywhere in modern day life. It motivates me for a career change in an innovative and disruptive tech industry. My engineering background has also led me to software development. As a software developer providing simpler solutions to everyday people problems, and being as creative as I can in doing so, intrigues me to start as a software developer. I would love to explore my curiosity in technology that is continually developing.
  
 I'm looking forward to working in a company where I can strengthen my analytical mind and be equipped with knowledge to improve our everyday lives. I also hope to contribute to various projects, working as a team with my can-do attitude. 
 
-## Tech
+## Tech 💻
 JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Express, Sinatra, Rspec, Jest, NodeJs, HTML, CSS, Git, TablePlus, Postman 
 
-## Projects 
+## Projects 🛠️
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**!. A cryptocurrency data aggregator with an inbuilt portfolio manager. | Angular, NestJS, TypeScript, Jest, TypeORM, Psql |
+| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**! A cryptocurrency data aggregator with an inbuilt portfolio manager. | Angular, NestJS, TypeScript, Jest, TypeORM, Psql |
 | **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase |
 | **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku |
 | **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
 
 To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
 
-## Skills
+## Skills 💪
 
-#### Quick Leaner who thrives under pressure
-- Able to learn new concepts and technical skills rapidly and effectively. I built a full-stack web application with new tech stacks Angular, NestJS and Typescript in two weeks during the final project at Makers.        
-- Passed training course on COVID-19 vaccine draw, and administered the preparation for vaccine in a week when I was working as a pharmacy technician at Unichem. 
+#### Excellent learner
+- During the last group project at Makers, I built a full-stack web application with new tech stacks Angular, NestJS and Typescript in two weeks. I could have used already learnt stacks but I chose to further explore technical challenges to be placed outside my comfort zone.
+- I was offered a full time position at the pharmacy where I worked as an intern. When COVID-19 vaccine was rolled out, I took a training course on vaccine draw and after completing short period of practice, I was preparing vaccines for administration.
 
-#### Attention to details
+#### Analytical thinker
+- During the time at the headwear store, I increased sales growth by 200% and was placed in the top 5 over 130 stores for sales volume. I produced and analysed customer data report by gender, age and products on daily basis to help my stores sales volume which wasn't requested by the head office. As a result, the head office referenced my daily report to be reflected in the next season's product design. 
 
-#### An excellent communicator and team player
+#### Attention to Details
+- It is crucial for a pharmacy technician to have strong attention to details when dispensing prescriptions. Any minor changes in the dispensing process can seriously affect the care of the patient. During the time at Unichem, I improved accuracy in dispensing by 98%.
 
-## Education
+#### Good communicator and team player
+- During the course at Makers, I often checked in with my team/pair partners to see how they were progressing and when people asked for help, I didn't hesitate to walk them through blockers.
+- When operating the headwear store, I provided an excellent customer service to satisfy their needs and resolve any complaints. I was able to reduce the number of complaints from 15 queries a month to less than 5.
+
+
+## Education 🎓
 
 #### Makers Academy (August 2022 to December 2022)
 _A 16-week intensive software development bootcamp_
-- Focused on Test-driven development and object oriented programming
+- Focused on Test-driven development(**TDD**) and Object oriented programming(**OOP**)
 - Enhanced **communication** skills through every day pair-programming and three team projects
 - Implemented **agile working methodologies** during three group engineering projects
 - Built applications from 'Hello World' to full stack web applications in different languages
@@ -55,7 +62,7 @@ Bachelor of Early Childhood English Education
 Bachelor of Electrical Engineering
 - completed the second year
 
-## Experience
+## Experience 📝
 
 **The London Clinic / London, UK** (Feburary 2022 to July 2022)  
 _Pharmacy Assistant technical officer_
@@ -96,12 +103,12 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 - Maintaining project records, files and databases, as well as developed and updated spreadsheet
 - Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while maintaing high degree of accuracy
 
-## Languages
+## Languages :loudspeaker:
 
 **Korean**: native <br>
 **English**: Full professional proficiency
 
-## Interests
+## Interests :bulb:
 
 - ✈️ Love to travel around the world (Scratching a map where I've been to)
 - ⛰️ Enjoy hiking in the mountains, or going for bush walks (completed 2 of the world top 3 hiking tracks) 
