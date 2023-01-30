@@ -19,10 +19,10 @@ JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Expre
 ## Projects 🛠️
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**! A cryptocurrency data aggregator with an inbuilt portfolio manager. | Angular, NestJS, TypeScript, Jest, TypeORM, Psql |
-| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community. | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase |
-| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay. | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku |
-| **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy. | JavaScript, NodeJs, Jest |
+| **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**! A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql |
+| **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community | MongoDB, Express, React, NodeJs, Jest, Cypress, Mongoose, Nodemon, Firebase |
+| **[MakersBnB](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku |
+| **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy | JavaScript, NodeJs, Jest |
 
 To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
 
@@ -52,13 +52,13 @@ _A 16-week intensive software development bootcamp_
 - Implemented **agile working methodologies** during three group engineering projects
 - Built applications from 'Hello World' to full stack web applications in different languages
 
-#### NZMA / Auckland, New Zealand (Feburary 2020 to June 2021)
+#### NZMA / Auckland, New Zealand (February 2020 to June 2021)
 NZQA Level 5 Pharmacy Technician
 
 #### Korea Cyber University / Seoul, South Korea (March 2015 - December 2018)
 Bachelor of Early Childhood English Education 
 
-#### University of Auckland / New Zealand (Feburary 2013 to June 2013, 2010) 
+#### University of Auckland / New Zealand (February 2010 to December 2012) 
 Bachelor of Electrical Engineering
 - completed the second year
 
@@ -69,10 +69,10 @@ _Pharmacy Assistant technical officer_
 
 Responsible for pharmaceutical stock to maintain streamlined inventory and low overhaed 
  - Creating metrics tracking how many medicines were required by different units in the hospital
- - Maintaining ward stock level by filling the drug cupboard and returning any incorrect or defected products
- - Checking pharmaceutical stock to access inventory level by regular stock taking and filing related document
+ - Maintaining ward stock level by filling the drug cupboard and returning any incorrect or defective products
+ - Checking pharmaceutical stock to access inventory level by regular stock taking and filing related documents
  - Supplying emergency medications 
- - Minimised ward stock being expired off by less than 5 %
+ - Minimised ward stock being expired off by less than 5% from 20& 
  
 **Unichem Lunn Ave / Auckland, New Zealand** (June 2020 to Nov 2021)  
 _Pharmacy Technician_
@@ -81,7 +81,7 @@ Responsible for compassionate healthcare service in a fast-paced community pharm
  - Processing medicine prescription orders from healthcare professionals into a computerised pharmacy system
  - Counting, measuring, and compounding medications following standard procedures prior to final check by pharmacist
  - Communicating with prescribers to verify medication dosages, repeat prescription,  authorisation, and patient information
- - Educating patients and care givers on possible drug interactions, potential side effects and medical dosages
+ - Educating patients and caregivers on possible drug interactions, potential side effects and medical dosages
  - Maintaining proper drug storage procedure, registries and records for controlled drugs
 
 **Hats-on / Seoul, South Korea** (June 2013 to Dec 2019)  
@@ -91,8 +91,9 @@ Responsible for managing and supervising shop operations providing maximum profi
 - Controlling inventory to ensure sufficient stock, rotated and changed by season, shop specials and sales
 -	Hiring and training new staff members and managing staff schedules
 - Addressing complaints from customers if sales associates are unable to resolve them
-- Increased sales growth over 2 years to #5 store over 130 stores in chain by analysing trends to shop planning and organising special promotions, displays and events 
-- Implemented daily sales reports and quarterly reports to head quarter and participated design meeting for the next season
+- Analysing trends to shop planning and organising special promotions, displays and events
+- Increased sales growth by 200% and was placed in the top 5 over 130 stores for sales volume
+- Implemented daily sales reports and quarterly reports to head office and participated design meeting for the next season
 
 **Daelim Corporation / Seoul, South Korea** (January 2012 to January 2013) <br>
 _Project Administrator_
@@ -101,7 +102,7 @@ Responsible for administrative duties for the Philippines Refinery Master Plan 2
 - Performing administrative duties for the Philippines Refinery Master Plan 2 Project team
 - Supporting projects managers and engineers for accurate recording keeping and constant flow of office paperwork
 - Maintaining project records, files and databases, as well as developed and updated spreadsheet
-- Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while maintaing high degree of accuracy
+- Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while achieving high degree of accuracy
 
 ## Languages :loudspeaker:
 
