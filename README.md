@@ -22,6 +22,7 @@ JavaScript, TypeScript, Ruby, PostgreSQL, MongoDB, Angular, NestJS, React, Expre
 | **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)** | Don’t be Grinch, join **MerryCrypto**! A cryptocurrency data aggregator with an inbuilt portfolio manager | Angular, NestJS, TypeScript, Jest, TypeORM, Psql, RESTful API, Git |
 | **[Spybook](https://github.com/Nameo91/Spybook-the-incredibles)** | A full MERN stack web app clone of facebook for the superhero community | MongoDB, Express, React, Node.Js, JavaScript, Jest, Cypress, Mongoose, Nodemon, Firebase, Git |
 | **[Raffhouses](https://github.com/Nameo91/MakersBnB-Ruffians)** | A web app clone of AirBnB, allowing any young Ruffian to book their space to stay | Ruby, Active Record(ORM), Sinatra, PostgreSQL, Rspec, HTML, CSS, Heroku, Git |
+| **[Chitter](https://github.com/Nameo91/chitter-challenge)** | Make a peep and share with others! A Twitter clone written in Ruby, allowing the users to post Messages to a public stream | Ruby, Psql, ActiveRecord, Sinatra, Bcrypt, RSpec, TDD |
 | **[TDD Practice](https://github.com/Nameo91/Codewars-Kata-Solutions)** | Codewars Kata solutions to pratice TDD process and conslidate what I have learned from Makers Academy | JavaScript, Node.Js, Jest, Git |
 
 To take a look on other projects click [here](https://github.com/Nameo91?tab=repositories)
