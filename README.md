@@ -2,7 +2,7 @@
   
 # Na-Rae Kim
   
-[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) <br> [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
+[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) <br> [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Codewars](https://www.codewars.com/users/Na_meo) | [Codecademy](https://www.codecademy.com/profiles/na_meo)
   
 </div>
 
