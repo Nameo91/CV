@@ -30,17 +30,17 @@ To take a look on other projects click [here](https://github.com/Nameo91?tab=rep
 ## Skills 💪
 
 #### Excellent learner
-- During the last group project at Makers, I built a full stack web application, **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)**, with new tech stacks Angular, NestJS and Typescript in only two weeks. I could have used already learnt stacks, but I chose to further explore technical challenges to be placed outside my comfort zone. Due to being able to pick up things quickly, I was, therefore, able to take up multiple features, such as **Login**, **Logout**, **Register**, **Watchlist**, related **News**, and recent **Twitter mentions** for each cryptocurrency from different APIs. I also built a lot of confidence in using the tech stacks I have not experienced.
-- I do not hesitate to take on new challenges. I created a Twitter clone, **[Chitter](https://github.com/Nameo91/chitter-challenge)** in Ruby in 2 days. I utilised **ActiveRecord ORM** as the database interface to accept the further technical challenge.
+- During the last group project at Makers, I built a full stack web application, **[Merry Crypto](https://github.com/Nameo91/merrycrypto-deploy)**, using new tech stack learnt Angular, NestJS and Typescript in only two weeks. I could have used already learnt stacks, but I chose to further explore technical challenges to be outside my comfort zone. Due to me being able to pick up things quickly, I worked on multiple features, such as **Login**, **Logout**, **Register**, **Watchlist**, calling related **News**, and recent **Twitter mentions** for each cryptocurrency from different APIs. I've also built a lot of confidence in using tech stacks which I have not previously experienced.
+- I do not hesitate to take on new challenges. I created a Twitter clone, **[Chitter](https://github.com/Nameo91/chitter-challenge)** in Ruby in 2 days. I utilised **ActiveRecord ORM** as the database interface to take more technical challenge.
 - I was offered a full time position at the pharmacy where I worked as an intern. When COVID-19 vaccine was rolled out, I took a training course on vaccine draw and after completing short period of practice, I was preparing vaccines for administration.
 
 #### Analytical thinker
 - During the time at the headwear store, I increased sales growth by 200% and was placed in the top 5 over 130 stores for sales volume. I produced and analysed customer data report by gender, age and products on daily basis to help my stores sales volume which wasn't requested by the head office. As a result, the head office referenced my daily report to be reflected in the next season's product design. 
-- A time when it was beneficial at Makers was implementing the TDD process to improve code quality and detect bugs quickly to resolve them. I was able to break down complex problems into smaller and more manageable components, identifying potential failure points.
+- At Makers I was implementing the TDD process to improve code quality and detecting bugs quickly to resolve any issues. I was able to break down complex problems into smaller manageable components, and identifying potential failure points.
 
 #### Attention to Details
 - It is crucial for a pharmacy technician to have strong attention to details when dispensing prescriptions. Any minor changes in the dispensing process can seriously affect the care of the patient. During the time at Unichem, I improved accuracy in dispensing by 98%. 
-- This skill is key for coding to ensure that code is written accurately and free of errors. In software development, small details can result in unexpectable consequences. During the second group project at Makers, it allowed me to solve a problem with displaying profile images next to the comments because I was able to identify incorrect queries for the database quickly. 
+- In second group project at Makers, I solved a problem where there was an issue displaying profile images next to the comments by recognising error in the queries trying to retrieve image from database. 
 
 #### Good communicator and team player
 - During the course at Makers, I often checked in with my team/pair partners to see how they were progressing and when people asked for help and I did not hesitate to walk them through blockers. 
@@ -52,14 +52,15 @@ To take a look on other projects click [here](https://github.com/Nameo91?tab=rep
 #### Makers Academy (August 2022 to December 2022)
 _A 16-week intensive software development bootcamp_
 - Focused on **TDD**(Test-Driven Development) and **OOP**(Object Oriented Programming)
-- Enhanced **communication skills** through everyday **pair-programming** and code reviews
+- Enhanced **communication skills** through everyday **pair-programming** navigating or driving problems
 - Applied self-led learning to  accelerate my learning process and develop strong **problem solving skills**
 - Implemented **agile working methodologies** to work effectively in a team
 - Collaborated in a team performing regular **stand-ups**, **pairing**, **sprint planning** and **git** workflow
 - Designed **schemas** and **recipes** to understand user stories
 - Planned **MVP** and broke down tasks into manageable tickets to meet the project requirements
+- Implemented **CRUD** funtions to build multiple projects
 - Built applications from 'Hello World' to **full stack web applications** in different languages
-- Created a full stack application to gather data realted to cryptocurrencies. Used new tech stacks, **Typescript**, **TypeORM**, **Angulr** and **NestJS** in a very short time frame. Made 10 different **API** calls from 3 different providers for live cryptocurrency data
+- Created a full stack application to gather data related to cryptocurrencies. Used new tech stacks, **Typescript**, **TypeORM**, **Angulr** and **NestJS** in a very short time frame. Made 10 different **API** calls from 3 different providers for live cryptocurrency data
 - Built a full MERN stack application, a fun but professional looking social media website. Used **MongoDB** and **JavaScript** to build the backend with **React** for the frontend, and **Firebase** to store images in a remote database. Carried out unit testing on backend with **Jest**.
 
 #### NZMA / Auckland, New Zealand (February 2020 to June 2021)
@@ -119,9 +120,9 @@ Key achievements:
 _Project Administrator_
 
 Responsible for administrative duties for the Philippines Refinery Master Plan 2 Project team
-- Supporting projects managers and engineers for accurate and timely record keeping of documents and emails, as well as developing and updating spreadsheets (organising, time management)
+- Supporting projects managers and engineers for accurate and timely record keeping of documents and emails, as well as developing and updating spreadsheets (_time management_)
 - Organising and providing the original copies of project documents to the clients 
-- Informing the updates on the projects schedules or scopes to the relevant department (collaboration)
+- Informing updates on the project schedules or scopes to the relevant departments (_collaboration_)
 
 Key achievements:
 - Demonstrated talent for quickly learning new tasks and completing assignments ahead of schedule while achieving high degree of accuracy
@@ -133,7 +134,7 @@ Key achievements:
 
 ## Interests :bulb:
 
-- ✈️ Love to travel around the world (Scratching a map where I've been to)
-- ⛰️ Enjoy hiking in the mountains, or going for bush walks (completed 2 of the world top 3 hiking tracks) 
-- 🏊‍♀️ Swimming, running and snowboarding (competed nationally as a swimmer)
-- 🧑‍🍳 Cooking and baking 
+- ✈️ Love to travel around the world: Scratching a map where I've been to
+- ⛰️ Enjoy hiking in the mountains, or going for bush walks: completed 2 of the world top 3 hiking tracks 
+- 🏊‍♀️ Swimming, running and snowboarding: competed nationally as a swimmer
+- 🧑‍🍳 Cooking and baking  
